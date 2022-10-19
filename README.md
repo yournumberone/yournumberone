@@ -11,7 +11,7 @@
   My Contacts:
 </p>
 <p align="center">
-  <a href="https://the_kytak.t.me">
+  <a href="https:/tak_radostno_v_dushe.t.me">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
     <a href="https://mbrandosha@gmail.com">
